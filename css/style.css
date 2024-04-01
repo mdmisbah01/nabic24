@@ -1,0 +1,95 @@
+/*font-family start*/
+
+/*common css start*/
+body{
+	font-family: 'PT Sans', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: ;
+}
+/*common Start*/
+body{
+	margin: 0;
+	padding: 0;
+}
+/*common end*/
+/*header start*/
+header{
+	border-bottom: 3px solid #EEF0F3;
+	padding: 10px 0;
+}
+.container {
+	width: 100%;
+	/*border: 1px solid red;*/
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.logo {
+	width: 10%;
+	/*border: 1px solid red;*/
+	float: left;
+}
+.logo img{
+	width: 100%;
+}
+
+.menu h1{
+	margin: 20px;
+	width: 100%;
+	font-family: sans-serif;
+	text-align: center;
+	font-size: 60px;
+    font-weight: 700;
+    color: #008836;
+}
+.menu p{
+	text-align: center;
+	font-size: 30px;
+}
+.b_content{
+	font-family: sans-serif;
+	text-align: center;
+}
+.b_content h1{
+	margin: 0;
+    font-size: 45px;
+    font-weight: 700;
+    color: #F2656;
+}
+.b_content h2{
+	margin: 10px 0;
+    font-size: 35px;
+    font-weight: 700;
+    color: #140763;
+}
+.b_content p{
+	margin: 0;
+	margin-bottom: 15px;
+    font-size: 35px;
+    font-weight: 400;
+    color: #F2656;
+    line-height: 23px;
+    word-spacing: 4px;
+    line-height: 40px;
+}
+.b_img{
+	margin: 0 auto;
+	width: 75%;
+	/*border: 1px solid red;*/
+}
+.b_img img{
+width: 100%;
+border-radius: 10px;
+}
+
+.d_img img{
+border-radius: 10px;
+}
+/*banner end*/
+
+/*common css end*/
+/*header start*/
+
+
+/*header end*/
